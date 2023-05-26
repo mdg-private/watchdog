@@ -1,3 +1,9 @@
+# Archival
+This repo was archived by the Apollo Security team on 2023-05-26
+
+This repo is a fork of `coinbase/watchdog`. Please refer to [the upstream repo](https://github.com/coinbase/watchdog) with issues or for new versions.
+
+
 Coinbase Watchdog
 ========
 
